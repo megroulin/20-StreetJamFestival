@@ -8,3 +8,15 @@ img {
   display: block;
   max-width: 100%;
 }
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  background-color: white;
+}
