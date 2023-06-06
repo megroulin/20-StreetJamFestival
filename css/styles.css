@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #ffffff;
 }
 
 img {
@@ -11,12 +11,28 @@ img {
 
 p {
   font-family: 'Poppins', sans-serif;
+  font-size: 12px;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
   font-family: 'Poppins', sans-serif;
 }
 
-header, main, footer {
-  background-color: white;
+h3 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(43, 95, 173);
+}
+
+hr {
+  align-items: center;
+  color: black;
+  width: 50%;
+}
+
+nav.menu {
+justify-items: center;
 }
