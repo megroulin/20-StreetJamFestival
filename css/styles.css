@@ -17,7 +17,8 @@ p {
 
 h1, 
 h2, 
-h3 {
+h3,
+h4 {
   font-family: 'Poppins', sans-serif;
 }
 
@@ -48,4 +49,32 @@ nav a {
 .plats {
   background-color: rgb(61, 124, 220);
   padding: 20px;
+}
+
+.food h3 {
+  font-size: 14px;
+  margin: 0;
+}
+
+footer {
+  background-color: rgb(61, 124, 220);
+  text-align: center;
+}
+
+footer a {
+  color: black;
+  text-decoration: none;
+}
+
+.reseaux {
+  border: black 1px solid;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  margin: 30px;
+}
+
+.copyright {
+  font-size: 8px;
+  font-weight: 300;
 }
