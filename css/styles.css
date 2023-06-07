@@ -28,8 +28,12 @@ hr {
 
 .rectangles {
   background-color: rgb(61, 124, 220);
-  margin: 10px;
+  margin: 10px 30px; 
   padding: 10px;
+}
+
+.horaires {
+  text-decoration: underline;
 }
 
 nav p {
