@@ -68,7 +68,7 @@ footer a {
 }
 
 .reseaux {
-  border: black 1px solid;
+  border: black 2px solid;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-around;
@@ -78,4 +78,26 @@ footer a {
 .copyright {
   font-size: 8px;
   font-weight: 300;
+}
+
+.hot-dog {
+  margin-top: 15px;
+}
+
+.copyright {
+  font-size: 10px;
+}
+
+.mail {
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+h4 {
+align-self: center;
+font-size: 16.5px;
+}
+
+h2 {
+  font-size: 32px;
 }
