@@ -34,10 +34,6 @@ hr {
   padding: 10px;
 }
 
-.horaires {
-  text-decoration: underline;
-}
-
 nav p {
   text-align: center;
 }
@@ -68,11 +64,12 @@ footer a {
 }
 
 .reseaux {
-  border: black 2px solid;
+  border: black 1px solid;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-around;
-  margin: 30px;
+  margin: 28px;
+  font-size: 14px;
 }
 
 .copyright {
@@ -81,7 +78,7 @@ footer a {
 }
 
 .hot-dog {
-  margin-top: 15px;
+  margin-top: 16px;
 }
 
 .copyright {
@@ -94,8 +91,8 @@ footer a {
 }
 
 h4 {
-align-self: center;
-font-size: 16.5px;
+  text-align: center;
+  font-size: 15px;
 }
 
 h2 {
